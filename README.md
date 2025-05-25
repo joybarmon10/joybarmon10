@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Joy Barmon
+# Hi there 👋, my name is Joy Barmon
 #### I am Full Stack Web developer
 ![I am Full Stack Web developer](https://media.licdn.com/dms/image/v2/D5616AQFOcvZzqPdzlQ/profile-displaybackgroundimage-shrink_350_1400/B56ZcGhb6wH4AY-/0/1748161119710?e=1753920000&v=beta&t=6wCVlyrja1ZOsq3H8RTU356PqIQUu6D74vLDHu3Tv9g)
 
