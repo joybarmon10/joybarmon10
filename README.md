@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Joy Barmon
 #### Full Stack Web Developer | Django & React Specialist
 
-![I am Full Stack Web developer](https://media.licdn.com/dms/image/v2/D5616AQFOcvZzqPdzlQ/profile-displaybackgroundimage-shrink_350_1400/B56ZcGhb6wH4AY-/0/1748161119710?e=1753920000&v=beta&t=6wCVlyrja1ZOsq3H8RTU356PqIQUu6D74vLDHu3Tv9g)
+![I am Full Stack Web developer](https://media.licdn.com/dms/image/v2/D5616AQHAvZ7wPsyrkw/profile-displaybackgroundimage-shrink_350_1400/B56ZcXrJcLHwA8-/0/1748448878378?e=1753920000&v=beta&t=SiLAZAV9iNtShSP3XJ-rPb06mtHSBOqI4NyPBmSX_KE)
 
 I am a skilled Full Stack Web Developer with expertise in Django, Python, React.js, HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS. I specialize in building and maintaining dynamic, user-friendly, and high-performance web applications.
 
